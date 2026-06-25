@@ -1,0 +1,10 @@
+# Large raw dataset (download from Kaggle — see data/README.md)
+amazon_products.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
